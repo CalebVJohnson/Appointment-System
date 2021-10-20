@@ -2,8 +2,8 @@
 
 namespace App\Http\Requests;
 
-use App\Appointment;
-use Gate;
+use App\Models\Appointment;
+use Illuminate\Support\Facades\Gate;
 use Illuminate\Foundation\Http\FormRequest;
 use Symfony\Component\HttpFoundation\Response;
 

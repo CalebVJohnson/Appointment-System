@@ -2,7 +2,7 @@
 
 namespace Database\Factories;
 
-use App\Appointment;
+use App\Models\Appointment;
 use Illuminate\Database\Eloquent\Factories\Factory;
 
 class AppointmentFactory extends Factory

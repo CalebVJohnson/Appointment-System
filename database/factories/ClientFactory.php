@@ -2,7 +2,7 @@
 
 namespace Database\Factories;
 
-use App\Client;
+use App\Models\Client;
 use Illuminate\Database\Eloquent\Factories\Factory;
 
 class ClientFactory extends Factory

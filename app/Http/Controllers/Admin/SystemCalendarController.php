@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers\Admin;
 
-use App\Appointment;
+use App\Models\Appointment;
 use App\Http\Controllers\Controller;
 
 class SystemCalendarController extends Controller
